@@ -78,13 +78,14 @@ Submit by pull request; see [CONTRIBUTING.md](CONTRIBUTING.md). Also in [LEADERB
 | 9 | erikqu_root_aware_portfolio | erikqu | 1.2745 | 9/9 | 158455 | missing |  | — |
 | 10 | synapse-surge | Sameer-Deepak | 1.2569 | 9/9 | 161183 | missing |  | — |
 | 11 | lns_negotiated | adityuhkapoor | 1.2267 | 9/9 | 165367 | missing |  | — |
-| 12 | anvesh | anvesh | 1.1863 | 9/9 | 169737 | missing |  | reproduced |
-| 13 | ly | ly | 1.1500 | 9/9 | 175329 | 822.57 | ✓ | — |
-| 14 | negotiated_delay | Mantej Singh Gill | 1.1499 | 9/9 | 175879 | 105.39 | ✓ | — |
-| 15 | shivaahir158 | Shiva Ahir (PhD Candidate, Stony Brook University) | 1.0508 | 9/9 | 192507 | 787.30 |  | — |
-| 16 | negotiated_x2 | Anthropic (reference) | 1.0168 | 9/9 | 198763 | 177.01 |  | — |
-| 17 | negotiated | Anthropic (reference) | 1.0000 | 9/9 | 201863 | 85.20 | ✓ | — |
-| 18 | negotiated_fast | Anthropic (reference) | — | 8/9 | — | 61.74 |  | — |
+| 12 | chintasamsonhruday_multidimensional_lns | chintasamsonhruday | 1.2158 | 9/9 | 166757 | 4014.15 | ✓ | — |
+| 13 | anvesh | anvesh | 1.1863 | 9/9 | 169737 | missing |  | reproduced |
+| 14 | ly | ly | 1.1500 | 9/9 | 175329 | 822.57 | ✓ | — |
+| 15 | negotiated_delay | Mantej Singh Gill | 1.1499 | 9/9 | 175879 | 105.39 | ✓ | — |
+| 16 | shivaahir158 | Shiva Ahir (PhD Candidate, Stony Brook University) | 1.0508 | 9/9 | 192507 | 787.30 |  | — |
+| 17 | negotiated_x2 | Anthropic (reference) | 1.0168 | 9/9 | 198763 | 177.01 |  | — |
+| 18 | negotiated | Anthropic (reference) | 1.0000 | 9/9 | 201863 | 85.20 | ✓ | — |
+| 19 | negotiated_fast | Anthropic (reference) | — | 8/9 | — | 61.74 |  | — |
 
 † derivative entry (refines another entry's routes): coordinated_refinement builds on drama3d-portfolio; leonid-popryho (Leonid Popryho; YJ Kim); warm_lns_refinement builds on pathfinder_lns (Taz33m).
 
